@@ -5,7 +5,7 @@
 **Project Name:** DTM_3D  
 **Author:** Pirate-Emperor
 
-![DTM_3D Logo](dtm_3d_logo.png)
+![Input](example_100.png) ![Output](cur_out.png)
 
 ## Description
 
