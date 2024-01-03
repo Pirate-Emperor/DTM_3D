@@ -5,8 +5,6 @@
 **Project Name:** DTM_3D  
 **Author:** Pirate-Emperor
 
-![Input](example_100.jpg) ![Output](cur_out.png)
-
 ## Description
 
 DTM_3D for Moon Images is an advanced project developed by Pirate-Emperor that specializes in Depth Terrain Estimation for lunar landscapes. This project utilizes cutting-edge computer vision and deep learning techniques to estimate the depth information of terrain from 2D images of the Moon. DTM_3D for Moon Images is designed for applications such as lunar exploration, research, and mission planning.
